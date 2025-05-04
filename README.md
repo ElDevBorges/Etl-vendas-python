@@ -22,5 +22,5 @@ Veja os dashboards na imagem `dashboard.PNG`.
 
 ## Autor
 
-[Luiz Felipe Borges Braga](www.linkedin.com/in/luiz-felipe-borges-braga-56b340199)
+[Luiz Felipe Borges Braga](https://www.linkedin.com/in/luiz-felipe-borges-braga-56b340199)
 
